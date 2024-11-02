@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ipv4Calculator/static/css/main.d70fe644.css",
-    "main.js": "/ipv4Calculator/static/js/main.54234a98.js",
+    "main.css": "/ipv4Calculator/static/css/main.c0786c95.css",
+    "main.js": "/ipv4Calculator/static/js/main.b30ad7c5.js",
     "static/media/17973908.jpg": "/ipv4Calculator/static/media/17973908.f42ecb4bc8e4c4ed24be.jpg",
     "index.html": "/ipv4Calculator/index.html",
-    "main.d70fe644.css.map": "/ipv4Calculator/static/css/main.d70fe644.css.map",
-    "main.54234a98.js.map": "/ipv4Calculator/static/js/main.54234a98.js.map"
+    "main.c0786c95.css.map": "/ipv4Calculator/static/css/main.c0786c95.css.map",
+    "main.b30ad7c5.js.map": "/ipv4Calculator/static/js/main.b30ad7c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.d70fe644.css",
-    "static/js/main.54234a98.js"
+    "static/css/main.c0786c95.css",
+    "static/js/main.b30ad7c5.js"
   ]
 }
